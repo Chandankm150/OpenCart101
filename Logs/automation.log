@@ -1,0 +1,48 @@
+2024-10-08 14:26:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chand\eclipse-workspace\OpenCart101\Master.xml"
+2024-10-08 14:26:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\chand\eclipse-workspace\OpenCart101\Master.xml
+
+2024-10-08 14:26:08 INFO  TC_001_AccountRegistrationTest:19 - ******  Starting TC001_AccountRegistrationTest*******
+2024-10-08 14:26:08 INFO  TC_001_AccountRegistrationTest:23 - ****** Clicked On MyAccount Link*******
+2024-10-08 14:26:09 INFO  TC_001_AccountRegistrationTest:26 - ****** Clicked On Register Link*******
+2024-10-08 14:26:09 INFO  TC_001_AccountRegistrationTest:30 - ****** Providing customer details*******
+2024-10-08 14:26:10 INFO  TC_001_AccountRegistrationTest:45 - ****** Validating expected message*******
+2024-10-08 14:26:10 INFO  TC_001_AccountRegistrationTest:72 - ****** Finished TC001_AccountRegistrationTest *******
+2024-10-08 14:26:20 INFO  TC_002_LoginTest:17 - ****** Starting TC_002_LoginTest *******
+2024-10-08 14:26:21 INFO  TC_002_LoginTest:50 - ****** Finished TC_002_LoginTest *******
+2024-10-08 15:45:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chand\eclipse-workspace\OpenCart101\grouping.xml"
+2024-10-08 15:45:43 INFO  TC_001_AccountRegistrationTest:19 - ******  Starting TC001_AccountRegistrationTest*******
+2024-10-08 15:45:43 INFO  TC_001_AccountRegistrationTest:23 - ****** Clicked On MyAccount Link*******
+2024-10-08 15:45:44 INFO  TC_001_AccountRegistrationTest:26 - ****** Clicked On Register Link*******
+2024-10-08 15:45:44 INFO  TC_001_AccountRegistrationTest:30 - ****** Providing customer details*******
+2024-10-08 15:45:45 INFO  TC_001_AccountRegistrationTest:45 - ****** Validating expected message*******
+2024-10-08 15:45:45 INFO  TC_001_AccountRegistrationTest:72 - ****** Finished TC001_AccountRegistrationTest *******
+2024-10-08 15:45:49 INFO  TC_002_LoginTest:17 - ****** Starting TC_002_LoginTest *******
+2024-10-08 15:45:50 INFO  TC_002_LoginTest:50 - ****** Finished TC_002_LoginTest *******
+2024-10-08 15:51:59 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chand\eclipse-workspace\OpenCart101\Master.xml"
+2024-10-08 15:52:03 INFO  TC_001_AccountRegistrationTest:19 - ******  Starting TC001_AccountRegistrationTest*******
+2024-10-08 15:52:03 INFO  TC_001_AccountRegistrationTest:23 - ****** Clicked On MyAccount Link*******
+2024-10-08 15:52:04 INFO  TC_001_AccountRegistrationTest:26 - ****** Clicked On Register Link*******
+2024-10-08 15:52:04 INFO  TC_001_AccountRegistrationTest:30 - ****** Providing customer details*******
+2024-10-08 15:52:05 INFO  TC_001_AccountRegistrationTest:45 - ****** Validating expected message*******
+2024-10-08 15:52:05 INFO  TC_001_AccountRegistrationTest:72 - ****** Finished TC001_AccountRegistrationTest *******
+2024-10-08 15:52:09 INFO  TC_002_LoginTest:17 - ****** Starting TC_002_LoginTest *******
+2024-10-08 15:52:10 INFO  TC_002_LoginTest:50 - ****** Finished TC_002_LoginTest *******
+2024-10-08 16:20:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chand\eclipse-workspace\OpenCart101\Master.xml"
+2024-10-08 16:20:33 INFO  TC_001_AccountRegistrationTest:19 - ******  Starting TC001_AccountRegistrationTest*******
+2024-10-08 16:20:33 INFO  TC_001_AccountRegistrationTest:23 - ****** Clicked On MyAccount Link*******
+2024-10-08 16:20:34 INFO  TC_001_AccountRegistrationTest:26 - ****** Clicked On Register Link*******
+2024-10-08 16:20:34 INFO  TC_001_AccountRegistrationTest:30 - ****** Providing customer details*******
+2024-10-08 16:20:36 INFO  TC_001_AccountRegistrationTest:45 - ****** Validating expected message*******
+2024-10-08 16:20:36 INFO  TC_001_AccountRegistrationTest:72 - ****** Finished TC001_AccountRegistrationTest *******
+2024-10-08 16:20:39 INFO  TC_002_LoginTest:17 - ****** Starting TC_002_LoginTest *******
+2024-10-08 16:20:41 INFO  TC_002_LoginTest:50 - ****** Finished TC_002_LoginTest *******
+2024-10-08 16:21:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\chand\eclipse-workspace\OpenCart101\Master.xml"
+2024-10-08 16:21:16 INFO  TC_001_AccountRegistrationTest:19 - ******  Starting TC001_AccountRegistrationTest*******
+2024-10-08 16:21:16 INFO  TC_001_AccountRegistrationTest:23 - ****** Clicked On MyAccount Link*******
+2024-10-08 16:21:16 INFO  TC_001_AccountRegistrationTest:26 - ****** Clicked On Register Link*******
+2024-10-08 16:21:16 INFO  TC_001_AccountRegistrationTest:30 - ****** Providing customer details*******
+2024-10-08 16:21:18 INFO  TC_001_AccountRegistrationTest:45 - ****** Validating expected message*******
+2024-10-08 16:21:18 INFO  TC_001_AccountRegistrationTest:72 - ****** Finished TC001_AccountRegistrationTest *******
+2024-10-08 16:21:21 INFO  TC_002_LoginTest:17 - ****** Starting TC_002_LoginTest *******
+2024-10-08 16:21:23 INFO  TC_002_LoginTest:50 - ****** Finished TC_002_LoginTest *******
